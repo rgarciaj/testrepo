@@ -1,0 +1,11 @@
+{
+  "generator-openapi-repo": {
+    "importExistingSpec": true,
+    "importedSpec": "api-paypal-sw3.yml",
+    "name": "paypal",
+    "repo": "rgarciaj/testrepo",
+    "splitSpec": true,
+    "samples": true,
+    "installSwaggerUI": false
+  }
+}
